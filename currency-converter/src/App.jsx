@@ -32,7 +32,7 @@ function App() {
     <div
       className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
       style={{
-        backgroundImage: `url('https://i.pinimg.com/564x/ec/8c/7c/ec8c7c4e1ef5cf2fcc1dae5ab370173d.jpg')`,
+        backgroundImage: `url('https://i.pinimg.com/564x/7b/c7/94/7bc794cc7a844ce6602370049591cb8a.jpg')`,
       }}
     >
       <div className="w-full">
